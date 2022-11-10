@@ -1,2 +1,2 @@
-# receita-desafio
+# receita-desafio / HTML-CSS
 Receita
